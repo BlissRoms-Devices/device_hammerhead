@@ -138,7 +138,7 @@ endif
 
 USE_CLANG_PLATFORM_BUILD := true
 
--include vendor/lge/hammerhead/BoardConfigVendor.mk
+-include vendor/hammerhead/lge/hammerhead/BoardConfigVendor.mk
 
 # Enable Minikin text layout engine (will be the default soon)
 USE_MINIKIN := true
