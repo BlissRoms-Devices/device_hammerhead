@@ -30,7 +30,7 @@ BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x02900000 --tags_offset 0x02700000
 # BOARD_KERNEL_IMAGE_NAME := zImage-dtb
 # KERNEL_TOOLCHAIN := /home/alyssa/dev/gcc-linaro/bin
 # TARGET_KERNEL_CROSS_COMPILE_PREFIX := arm-linux-gnueabihf-
-TARGET_KERNEL_CONFIG := hammerhead_defconfig
+# TARGET_KERNEL_CONFIG := hammerhead_defconfig
 
 # Shader cache config options
 # Maximum size of the  GLES Shaders that can be cached for reuse.
