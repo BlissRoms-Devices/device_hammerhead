@@ -1,8 +1,8 @@
 [
  {
    "remote": "github",
-   "repository": "BlissRoms-Kernels/hammerhead_nkernel",
-   "target_path": "kernel/lge/hammerhead",
+   "repository": "aclegg2011/android_kernel_lge_hammerhead_n_prebuilt",
+   "target_path": "device/lge/hammerhead-kernel",
    "revision": "n7.0"
  },
  {
